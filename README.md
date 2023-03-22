@@ -1,7 +1,7 @@
 # Hntam812.github.io
 # Demi_Portfolio
 
-Project data science portfolio
+GROUPE SEB projects
 
 # [Project 1: E-COMMERCE DATA PIPELINES](https://github.com/Hntam812/E-COMMERCE-DATA-PIPELINES.git) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
