@@ -7,7 +7,7 @@ GROUPE SEB projects
 * The E-COMMERCE DATA PIPELINES project is designed to collect, pre-process, and store data from various e-commerce platforms.
 * The main responsibility of the project is to create a reliable data pipeline that collects data from multiple sources, pre-processes it, and stores it in a database.
 
-# [Project 2: EKPI MONITORING DASHBOARD](https://github.com/Hntam812/KPI-MONITORING-DASHBOARD.git) 
+# [Project 2: KPI MONITORING DASHBOARD](https://github.com/Hntam812/KPI-MONITORING-DASHBOARD.git) 
 * The KPI MONITORING DASHBOARD project is deployment data from various e-commerce platforms.
 * 
 
