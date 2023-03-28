@@ -9,5 +9,5 @@ GROUPE SEB projects
 
 # [Project 2: KPI MONITORING DASHBOARD](https://github.com/Hntam812/KPI-MONITORING-DASHBOARD.git) 
 * The KPI MONITORING DASHBOARD project is deployment data from various e-commerce platforms.
-* 
+
 
