@@ -1,13 +1,10 @@
-# Hntam812.github.io
-# Hi there !
+# About me , c'est moi Demi 
 
-GROUPE SEB projects
+I'm working in Data Science industries.
 
-# [Project 1: E-COMMERCE DATA PIPELINES](https://github.com/Hntam812/E-COMMERCE-DATA-PIPELINES.git) 
-* The E-COMMERCE DATA PIPELINES project is designed to collect, pre-process, and store data from various e-commerce platforms.
-* The main responsibility of the project is to create a reliable data pipeline that collects data from multiple sources, pre-processes it, and stores it in a database.
+I’m self-study and enjoy working with computers and numbers.
 
-# [Project 2: KPI MONITORING DASHBOARD](https://github.com/Hntam812/KPI-MONITORING-DASHBOARD.git) 
-* The KPI MONITORING DASHBOARD project is deployment data from various e-commerce platforms.
+You can contact me at:
 
-
+Email: hongoctam0812@gmail.com
+Domicle: Ho Chi Minh city, Vietnam
